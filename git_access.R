@@ -9,7 +9,7 @@ gitcreds::gitcreds_set()
 
 # Crear un ink a un repositorio
 
-usethis::create_from_github(
-  "https://github.com/Ericdaniel78/my_first_repo.git",
-  destdir = "~/local/directory"
-)
+# usethis::create_from_github(
+#   "https://github.com/Ericdaniel78/my_first_repo.git",
+#   destdir = "~/local/directory"
+# )
